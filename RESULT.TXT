@@ -2,52 +2,105 @@
 RAR 6.23 x64   Copyright (c) 1993-2023 Alexander Roshal   1 Aug 2023
 Registered to WinRARLover.com
 
-Creating archive Credential.rar
+Updating archive Credential.rar
 
-Adding    E:\For job hunting\credential\DejanTeofilovic\52310638.png       0%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\account.txt        0%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\account.txt.bak       0%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\account.zip        0%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\avatar\123.jpg       0%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\avatar\123.png       1%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\bid sample\samples.txt       2%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\bid sample\summary.docx       2%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\discord\discord.docx       2%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\discord\discord_backup_codes (1).txt       2%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\discord\discord_backup_codes.txt       2%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\discord\For collaboration.docx       2%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\discord\for hire.docx       2%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\discord\unity-portfolio1.png      10%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\introduction.docx      10%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\logo\logo-pdf.pdf      10%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\logo\logo-png.png      15%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\logo\logo-svg.svg      15%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\logo\logo-transparent-pdf.pdf      15%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\logo\logo-transparent-png.png      20%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\logo\logo-transparent-svg.svg      21%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\logo\Screenshot_2023-10-02_at_11.38.05_AM.png      23%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\logo\small.png      24%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\resume\1. Full Stack Developer - Resume.pdf      25%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\ss.docx           26%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\upwork\bid proposal\chatgpt\chatgpt.txt      26%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\upwork\bid proposal\chatgpt\chatgpt.txt.bak      26%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\upwork\Bids.zip      28%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\upwork\Untitled1.txt      28%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\upwork\Untitled1.txt.bak      28%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\upwork\upwork.txt      28%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\upwork\upwork.txt.bak      28%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\Vista Logos.zip      39%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\~$ss.docx         39%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\~$troduction.docx      39%  OK 
-Adding    E:\For job hunting\credential\Dominic Williams\Dominic Williams.png      80%100%  OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\upwork\bid proposal\chatgpt       OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\upwork\bid proposal       OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\avatar             OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\bid sample         OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\discord            OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\logo               OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\resume             OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic\upwork             OK 
-Adding    E:\For job hunting\credential\DejanTeofilovic                    OK 
-Adding    E:\For job hunting\credential\Dominic Williams                   OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\52310638.png       0%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\account.txt        0%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\account.txt.bak       0%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\account.zip        0%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\avatar\123.jpg       0%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\avatar\123.png       1%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\bid sample\samples.txt       2%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\bid sample\summary.docx       2%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\discord\discord.docx       2%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\discord\discord_backup_codes (1).txt       2%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\discord\discord_backup_codes.txt       2%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\discord\For collaboration.docx       2%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\discord\for hire.docx       2%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\discord\unity-portfolio1.png      10%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\introduction.docx      10%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\logo\logo-pdf.pdf      10%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\logo\logo-png.png      15%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\logo\logo-svg.svg      15%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\logo\logo-transparent-pdf.pdf      15%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\logo\logo-transparent-png.png      20%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\logo\logo-transparent-svg.svg      21%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\logo\Screenshot_2023-10-02_at_11.38.05_AM.png      23%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\logo\small.png      24%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\resume\1. Full Stack Developer - Resume.pdf      25%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\ss.docx           26%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\upwork\bid proposal\chatgpt\chatgpt.txt      26%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\upwork\bid proposal\chatgpt\chatgpt.txt.bak      26%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\upwork\Bids.zip      28%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\upwork\Untitled1.txt      28%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\upwork\Untitled1.txt.bak      28%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\upwork\upwork.txt      28%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\upwork\upwork.txt.bak      28%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\Vista Logos.zip      39%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\~$ss.docx         39%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\~$troduction.docx      39%  OK 
+Updating  E:\For job hunting\credential\Dominic Williams\Dominic Williams.png      80%100%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\upwork\bid proposal\chatgpt       OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\upwork\bid proposal       OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\avatar             OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\bid sample         OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\discord            OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\logo               OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\resume             OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\upwork             OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic                    OK 
+Updating  E:\For job hunting\credential\Dominic Williams                   OK 
+Done
+
+RAR 6.23 x64   Copyright (c) 1993-2023 Alexander Roshal   1 Aug 2023
+Registered to WinRARLover.com
+
+Updating archive Credential.rar
+
+Updating  E:\For job hunting\credential\DejanTeofilovic\52310638.png       0%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\account.txt        0%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\account.txt.bak       0%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\account.zip        0%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\avatar\123.jpg       0%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\avatar\123.png       1%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\bid sample\samples.txt       2%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\bid sample\summary.docx       2%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\discord\discord.docx       2%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\discord\discord_backup_codes (1).txt       2%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\discord\discord_backup_codes.txt       2%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\discord\For collaboration.docx       2%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\discord\for hire.docx       2%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\discord\unity-portfolio1.png      10%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\introduction.docx      10%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\logo\logo-pdf.pdf      10%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\logo\logo-png.png      15%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\logo\logo-svg.svg      15%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\logo\logo-transparent-pdf.pdf      15%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\logo\logo-transparent-png.png      20%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\logo\logo-transparent-svg.svg      21%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\logo\Screenshot_2023-10-02_at_11.38.05_AM.png      23%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\logo\small.png      24%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\resume\1. Full Stack Developer - Resume.pdf      25%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\ss.docx           26%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\upwork\bid proposal\chatgpt\chatgpt.txt      26%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\upwork\bid proposal\chatgpt\chatgpt.txt.bak      26%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\upwork\Bids.zip      28%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\upwork\Untitled1.txt      28%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\upwork\Untitled1.txt.bak      28%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\upwork\upwork.txt      28%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\upwork\upwork.txt.bak      28%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\Vista Logos.zip      39%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\~$ss.docx         39%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\~$troduction.docx      39%  OK 
+Updating  E:\For job hunting\credential\Dominic Williams\Dominic Williams.png      80%100%  OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\upwork\bid proposal\chatgpt       OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\upwork\bid proposal       OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\avatar             OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\bid sample         OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\discord            OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\logo               OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\resume             OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic\upwork             OK 
+Updating  E:\For job hunting\credential\DejanTeofilovic                    OK 
+Updating  E:\For job hunting\credential\Dominic Williams                   OK 
 Done
